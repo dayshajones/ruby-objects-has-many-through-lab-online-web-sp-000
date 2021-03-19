@@ -4,7 +4,7 @@
 
 - Write classes that are related to each other via the "has-many-through"
   relationship.
-- Write methods that use the "has-many-through" relationship to deliver
+https://learn.co/tracks/full-stack-web-development-v8/module-6-object-oriented-ruby/section-12-object-relationships/has-many-objects-through-lab#- Write methods that use the "has-many-through" relationship to deliver
   information on related objects.
 
 ## Overview
